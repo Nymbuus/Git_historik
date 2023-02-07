@@ -2,6 +2,7 @@
 
 This is a small Python program that prints Pascal's triangle.
 Kod som tillhör kursen git.
+En till ändring!!
 
 ## Usage
 
